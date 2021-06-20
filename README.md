@@ -6,6 +6,7 @@
     <style>
       body {
         color:white;
+        background-color:black;
       }
       #poop {
         font-size:50px;
