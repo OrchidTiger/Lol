@@ -1,6 +1,7 @@
 
 <html>
   <head>
+    <meta charset="utf-8">
     <style>
       body {
         color:white;
@@ -16,7 +17,7 @@
       }
     </style>
   </head>
-  <body>">
+  <body>
     <h1> Follow and sub to these </h1>
     <h2>Scratch</h2><br>
     <img src ="https://cdn2.scratch.mit.edu/get_image/user/62350627_60x60.png" alt ="OrchidTiger pfp" width = "200px"><br>
