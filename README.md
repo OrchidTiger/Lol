@@ -5,7 +5,7 @@
     <title> Test </title>
     <style>
       #poop {
-        font-size:100px;
+        font-size:50px;
       }
     </style>
   </head>
