@@ -20,7 +20,7 @@
   <body>">
     <h1> Follow and sub to these </h1>
     <h2>Scratch</h2><br>
-    <img src ="https://cdn2.scratch.mit.edu/get_image/user/62350627_60x60.png" alt ="OrchidTiger pfp"><br>
+    <img src ="https://cdn2.scratch.mit.edu/get_image/user/62350627_60x60.png" alt ="OrchidTiger pfp" width = "200px"><br>
      <a  id = "OrchidTiger" target="_blank" href="https://scratch.mit.edu/users/OrchidTiger/">OrchidTiger</a>
     <h2>YouTube</h2>
     <img src ="https://user-images.githubusercontent.com/77311629/122663891-5203c380-d1bb-11eb-9993-7cd6f8bf1417.png" alt ="Living Things Around Us logo" width = "200px"><br>
