@@ -27,6 +27,6 @@
      <a id ="poop" target="_blank" href="https://www.youtube.com/channel/UC69e_o6BXCaKp_RPyQDGguA">Living Things Around Us</a><br>
      <iframe width="420" height="345" src="https://www.youtube.com/embed/_cCz5MHJy70"></iframe><br>
     <a href="https://OrchidTiger.github.io/Lol-m">c l i c k</a><br>
-    <iframe src="https://giphy.com/embed/IedrijvVSFIASnhmuX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/guardian-test-corona-testing-IedrijvVSFIASnhmuX">via GIPHY</a></p>
+    <iframe src="https://giphy.com/embed/IedrijvVSFIASnhmuX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/guardian-test-corona-testing-IedrijvVSFIASnhmuX"></a></p>
     </body>
     </html>
